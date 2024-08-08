@@ -1,0 +1,32 @@
+* {
+  margin: 10px;
+  font-family: "Segoe UI";
+}
+
+h1 {
+  font-weight: 200;
+}
+
+input {
+  width: 70px;
+  height: 25px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+
+
+#lancer_commande {
+  text-decoration: none;
+  border: 1px solid;
+  padding: 7px;
+  border-radius: 20px;
+  position: absolute;
+  bottom: 5px;
+  left: calc(23%);
+}
+
+
